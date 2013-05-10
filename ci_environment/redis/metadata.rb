@@ -1,0 +1,5 @@
+maintainer        "Test"
+maintainer_email  "test@test.com"
+description       "redis"
+version           "0.0.1"
+recipe            "redis", "test"
